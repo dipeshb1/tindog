@@ -85,6 +85,9 @@ p {
     margin-top: 5%;
     transform: rotate(0deg);
   }
+  #procong{
+    padding: 10px;
+    margin: 5px;
 }
 
 .col {
