@@ -85,9 +85,13 @@ p {
     margin-top: 5%;
     transform: rotate(0deg);
   }
-  #procong{
+  #pricing{
     padding: 10px;
     margin: 5px;
+  }
+  .card{
+    margin:5px;
+  }
 }
 
 .col {
