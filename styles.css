@@ -177,7 +177,43 @@ p {
 .btn2{
    margin: 2%;
 }
+/* get in touch */
+#contact{
+  background: #efefef;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #777;
+}
+.contact-form{
+  padding: 15px;
+}
+.form-control{
+  margin: 10px 0;
+  border-radius: 0 !important;
+  border: none;
+}
+::placeholder{
+  color: #999 !important;
+}
+.follow{
+  background: #fff;
+  padding: 10px;
+  margin: 15px;
+}
+.contact-info{
+  margin: 10px;
+  color:#007bff;
+}
+#footer{
+  background: #333;
+  color: #fff;
+  padding: 12px;
 
+}
+.fa fa-heart-o{
+  margin: 3px;
+  color: red;
+}
 /* footer */
 #footer{
   padding: 5%;
